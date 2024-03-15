@@ -68,6 +68,8 @@
 </p>
 <br>
 
+- 🦖 My first GitHub profile: https://github.com/HarryPotter-4000
+
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/catherine-prakofyeva](www.linkedin.com/in/catherine-prakofyeva)
