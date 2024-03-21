@@ -1,3 +1,4 @@
+<p align="center">🦖 My first GitHub profile: https://github.com/HarryPotter-4000</p>
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">a passionate full stack developer</h3>
 <br>
